@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433461329480",
+    "project_id": "flash-chat-2d36c",
+    "storage_bucket": "flash-chat-2d36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433461329480:android:6c7c31d588b5a0dcb9227d",
+        "android_client_info": {
+          "package_name": "com.ottomandora.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433461329480-ki4gduchkclr90206n6f67ieosb9eikv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_Wka5edo-Eshkmkxe92LL9ONWqE8kUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433461329480-ki4gduchkclr90206n6f67ieosb9eikv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
